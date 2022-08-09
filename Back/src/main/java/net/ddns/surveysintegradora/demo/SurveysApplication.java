@@ -1,8 +1,7 @@
-package com.edu.utng.surveys;
+package net.ddns.surveysintegradora.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 
 @SpringBootApplication
 public class SurveysApplication {

@@ -1,4 +1,4 @@
-package com.edu.utng.surveys;
+package net.ddns.surveysintegradora.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
